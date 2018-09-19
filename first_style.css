@@ -1,0 +1,16 @@
+#intro {
+    color: #e6b800;
+    background-image: url("Gucci.png");
+    background-color: brown;
+    font-family: fantasy;
+    margin:auto;
+    font-size: 50px;
+    outline-color: green;
+    padding-left: 35%;
+
+}
+
+.p_text {
+    font-style: oblique; 
+    font-size:100%;
+}
